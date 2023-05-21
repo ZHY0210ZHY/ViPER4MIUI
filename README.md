@@ -1,0 +1,2 @@
+# Viper4MIUI
+基于Viper4Android修改的miui专用版本，无需安装其他关闭selinux与替换米音so的模块，该模块集成所有功能
